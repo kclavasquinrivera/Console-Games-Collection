@@ -1,7 +1,5 @@
 # Java Console Games Collection
 
-## Overview
-
 ### Dice Project
 ![Dice Project](<Screenshot 2026-10-10 164446.png>)
 
@@ -21,6 +19,8 @@
 ![Pig Project](<Screenshot 2026-10-10 164615.png>)
 
 **Note:** This project is intended for educational purposes. Some games use simplified rules, and the implementation may differ from official versions.
+
+## Overview
 
 Java Console Games Collection is a collection of interactive console-based projects developed using Java. The application brings together several games and programming exercises through a single menu, allowing users to select and run different programs.
 
