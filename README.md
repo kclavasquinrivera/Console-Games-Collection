@@ -2,8 +2,6 @@
 
 ## Overview
 
-## Screenshots
-
 ### Dice Project
 ![Dice Project](<Screenshot 2026-10-10 164446.png>)
 
