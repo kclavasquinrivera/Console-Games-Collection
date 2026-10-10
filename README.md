@@ -2,6 +2,26 @@
 
 ## Overview
 
+## Screenshots
+
+### Dice Project
+![Dice Project](<Screenshot 2026-10-10 164446.png>)
+
+### Letters Project
+![Letters Project](<Screenshot 2026-10-10 164511.png>)
+
+### Rectangle Project
+![Rectangle Project](<Screenshot 2026-10-10 164523.png>)
+
+### BoxCars Project
+![BoxCars Project](<Screenshot 2026-10-10 164552.png>)
+
+### Yahtzee Project
+![Yahtzee Project](<Screenshot 2026-10-10 164600.png>)
+
+### Pig Project
+![Pig Project](<Screenshot 2026-10-10 164615.png>)
+
 Java Console Games Collection is a collection of interactive console-based projects developed using Java. The application brings together several games and programming exercises through a single menu, allowing users to select and run different programs.
 
 The project demonstrates fundamental programming concepts, object-oriented design, random number generation, mathematical calculations, and interactive command-line applications.
